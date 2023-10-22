@@ -17,6 +17,8 @@ git clone https://github.com/JadeKim042386/chrome-extension-TODO.git
 
 - Select `chrome-extension-TODO` directory
 
+### 3. Click Update Button
+
 ## Usage
 
 ### Add To do
